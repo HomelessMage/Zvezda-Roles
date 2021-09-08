@@ -97,7 +97,22 @@
       </Skills>
       <ItemSet>
          <Item identifier="idcard" equip="true" showpreview="false" />
-         <Item identifier="sovietuniformk" equip="true" outfit="true" showpreview="true" />
+         <Item identifier="sovietuniformk" equip="true" outfit="true" showpreview="true">
+            <Item identifier="cigpack" showpreview="true">
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+            </Item>
+         </Item>
          <Item identifier="sovietofficercap" equip="true" showpreview="true" />
          <Item identifier="holster" equip="true" showpreview="true">
             <Item identifier="76241mm" showpreview="false" />
@@ -131,20 +146,6 @@
             <Item identifier="76241mm" showpreview="false" />
             <Item identifier="76241mm" showpreview="false" />
             <Item identifier="76241mm" showpreview="false" />
-         </Item>
-         <Item identifier="cigpack" showpreview="true">
-            <Item identifier="cigarette" showpreview="false" />
-            <Item identifier="cigarette" showpreview="false" />
-            <Item identifier="cigarette" showpreview="false" />
-            <Item identifier="cigarette" showpreview="false" />
-            <Item identifier="cigarette" showpreview="false" />
-            <Item identifier="cigarette" showpreview="false" />
-            <Item identifier="cigarette" showpreview="false" />
-            <Item identifier="cigarette" showpreview="false" />
-            <Item identifier="cigarette" showpreview="false" />
-            <Item identifier="cigarette" showpreview="false" />
-            <Item identifier="cigarette" showpreview="false" />
-            <Item identifier="cigarette" showpreview="false" />
          </Item>
       </ItemSet>
       <ItemSet>
@@ -240,7 +241,7 @@
                <Item identifier="cigarette" showpreview="false" />
                <Item identifier="cigarette" showpreview="false" />
             </Item>
-         <Item identifier="zsh1omon" showpreview="false" />
+            <Item identifier="zsh1omon" showpreview="false" />
          </Item>
          <Item identifier="omoncap" equip="true" showpreview="true" />
          <Item identifier="radio" equip="true" showpreview="true">
@@ -306,7 +307,7 @@
             </Item>
             <Item identifier="screwdriver" showpreview="true" />
             <Item identifier="wrench" showpreview="true" />
-            <Item identifier="pr73m" />            
+            <Item identifier="pr73m" />
             <Item identifier="handheldterminal" showpreview="true" />
          </Item>
          <Item identifier="captainscap3" equip="true" showpreview="true" />
@@ -433,6 +434,28 @@
          <ItemSet>
             <Item identifier="idcard" equip="true" showpreview="false" />
             <Item identifier="medicalofficerclothes" equip="true" outfit="true" showpreview="true" />
+            <Item identifier="radio" equip="true" showpreview="true">
+               <Item identifier="batterycell" />
+            </Item>
+         </ItemSet>
+         <ItemSet>
+            <Item identifier="idcard" equip="true" showpreview="false" />
+            <Item identifier="doctorsuniform3" equip="true" outfit="true" showpreview="true">
+               <Item identifier="cigpack" showpreview="true">
+                  <Item identifier="cigarette" showpreview="false" />
+                  <Item identifier="cigarette" showpreview="false" />
+                  <Item identifier="cigarette" showpreview="false" />
+                  <Item identifier="cigarette" showpreview="false" />
+                  <Item identifier="cigarette" showpreview="false" />
+                  <Item identifier="cigarette" showpreview="false" />
+                  <Item identifier="cigarette" showpreview="false" />
+                  <Item identifier="cigarette" showpreview="false" />
+                  <Item identifier="cigarette" showpreview="false" />
+                  <Item identifier="cigarette" showpreview="false" />
+                  <Item identifier="cigarette" showpreview="false" />
+                  <Item identifier="cigarette" showpreview="false" />
+               </Item>
+            </Item>
             <Item identifier="radio" equip="true" showpreview="true">
                <Item identifier="batterycell" />
             </Item>
