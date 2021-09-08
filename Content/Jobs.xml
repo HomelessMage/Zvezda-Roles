@@ -338,6 +338,7 @@
             <Item identifier="baseballcap" equip="true" showpreview="true" />
             <Item identifier="orangejumpsuit3" equip="true" outfit="true" showpreview="true">
                <Item identifier="screwdriver" showpreview="true" />
+               <Item identifier="wrench" showpreview="true" />               
             </Item>
          </ItemSet>
       </Job>
