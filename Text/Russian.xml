@@ -12,11 +12,11 @@
 
 
       <jobname.militia>Милиционер</jobname.militia>
-      <jobname.militia1>Милицонер</jobname.militia1>
+      <jobname.militia1>Милиционер</jobname.militia1>
       <jobname.militia2>ОМОН</jobname.militia2>            
       <jobdescription.militia>Помогает организовать работу всех служб Коменданту станции. Имеет законодательную монополию на применение силы. Выполняет особые поручения Коменданта.</jobdescription.militia>
       <jobdescription.militia1>Сотрудник патрульно-постовой службы МВД.</jobdescription.militia1>
-      <jobdescription.militia2>Сотрудник отряда Милиции особого назначения МВД.</jobdescription.militia2>      
+      <jobdescription.militia2>Сотрудник отряда милиции особого назначения МВД.</jobdescription.militia2>      
 
 
       <jobname.militaryman>Военнослужащий</jobname.militaryman>
