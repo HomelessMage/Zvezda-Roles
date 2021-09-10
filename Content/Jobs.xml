@@ -80,6 +80,16 @@
          </ItemSet>
       </Job>
    </Override>
+
+
+
+commoner
+vip
+vipsecurityofficer
+
+
+
+
    <!--DEFAULT-->
    <!--DEFAULT-->
    <!--DEFAULT-->
@@ -436,7 +446,7 @@
             <Item identifier="idcard" equip="true" showpreview="false" />
             <Item identifier="medicalofficerclothes" equip="true" outfit="true" showpreview="true" />
             <Item identifier="radio" equip="true" showpreview="true">
-               <Item identifier="batterycell" />
+               <Item identifier="batterycell" showpreview="false" />
             </Item>
          </ItemSet>
          <ItemSet>
@@ -458,11 +468,12 @@
                </Item>
             </Item>
             <Item identifier="radio" equip="true" showpreview="true">
-               <Item identifier="batterycell" />
+               <Item identifier="batterycell" showpreview="false" />
             </Item>
          </ItemSet>
       </Job>
    </Override>
+<!--
    <Job name="stager" identifier="stager" uicolor="120,120,120" initialcount="1" allowalways="true" minkarma="0" vitalitymodifier="0" pricemultiplier="0">
       <Skills>
          <Skill identifier="weapons" level="0,0" />
@@ -474,8 +485,7 @@
       <ItemSet>
          <Item identifier="idcard" equip="true" showpreview="false" />
          <Item identifier="ita_prisoneruniform" equip="true" outfit="true" showpreview="true" />
-      </ItemSet>      
-<!--       
+      </ItemSet>            
       <ItemSet>
          <Item identifier="idcard" equip="true" showpreview="false" />
          <Item identifier="commonerclothes1" equip="true" outfit="true" showpreview="true" />
@@ -500,8 +510,24 @@
          <Item identifier="ushanka2" equip="true" showpreview="true" />
          <Item identifier="duffelbag" equip="true" showpreview="false" />
       </ItemSet>
--->
+
    </Job>
+-->
+<Override>
+   <Job name="prisoner" identifier="prisoner" uicolor="120,120,120" initialcount="1" allowalways="true" minkarma="0" vitalitymodifier="0" pricemultiplier="0">
+      <Skills>
+         <Skill identifier="weapons" level="0,0" />
+         <Skill identifier="mechanical" level="0,0" />
+         <Skill identifier="electrical" level="0,0" />
+         <Skill identifier="medical" level="0,0" />
+         <Skill identifier="helm" level="0,0" />
+      </Skills>
+      <ItemSet>
+         <Item identifier="idcard" equip="true" showpreview="false" />
+         <Item identifier="ita_prisoneruniform" equip="true" outfit="true" showpreview="true" />
+      </ItemSet>            
+   </Job>
+</Override>
    <Job name="stockman" identifier="stockman" uicolor="178,255,102" initialcount="1" allowalways="true" minkarma="0" vitalitymodifier="0" pricemultiplier="0">
       <Skills>
          <Skill identifier="weapons" level="0,0" />

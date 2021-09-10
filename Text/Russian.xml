@@ -3,6 +3,8 @@
 
 
       <jobname.comendant>Комендант</jobname.comendant>
+      <jobname.comendant1>Комендант</jobname.comendant1>
+      <jobname.comendant2>Военный комиссар</jobname.comendant2>            
       <jobdescription.comendant>Управляющий на станции. Занимается организацией работы персонала на станции. Имеет законодательную монополию на применение силы.</jobdescription.comendant>
       <jobdescription.comendant1>Военная комендатура</jobdescription.comendant1>
       <jobdescription.comendant2>Военный комиссариат</jobdescription.comendant2>
@@ -10,12 +12,18 @@
 
 
       <jobname.militia>Милиционер</jobname.militia>
+      <jobname.militia1>Милицонер</jobname.militia1>
+      <jobname.militia2>ОМОН</jobname.militia2>            
       <jobdescription.militia>Помогает организовать работу всех служб Коменданту станции. Имеет законодательную монополию на применение силы. Выполняет особые поручения Коменданта.</jobdescription.militia>
-      <jobdescription.militia1>ППС</jobdescription.militia1>
-      <jobdescription.militia2>ОМОН</jobdescription.militia2>      
+      <jobdescription.militia1>Сотрудник патрульно-постовой службы МВД.</jobdescription.militia1>
+      <jobdescription.militia2>Сотрудник отряда Милиции особого назначения МВД.</jobdescription.militia2>      
 
 
       <jobname.militaryman>Военнослужащий</jobname.militaryman>
+      <jobname.militaryman1>Связист</jobname.militaryman1>
+      <jobname.militaryman2>Мотострелок</jobname.militaryman2>
+      <jobname.militaryman3>Сапёр</jobname.militaryman3>
+      <jobname.militaryman4>Спецназовец</jobname.militaryman4>                  
       <jobdescription.militaryman>Боец ВС ССКЕ. Имеет законодательную монополию на применение силы.</jobdescription.militaryman>
       <jobdescription.militaryman1>Батальон связи</jobdescription.militaryman1>
       <jobdescription.militaryman2>Мотострелковый батальон</jobdescription.militaryman2>
@@ -29,23 +37,42 @@
 	  
 
 
-
 	  
       <jobname.scientist>Научный сотрудник</jobname.scientist>
+      <jobname.scientist1>Научный сотрудник</jobname.scientist1>
+      <jobname.scientist2>Агроном</jobname.scientist2>      
       <jobdescription.scientist>Персонал, ответственный за сектор лаборатории и проводящий исследования в области технологических разработок.</jobdescription.scientist>
-	  
+	<jobdescription.scientist1>Ведет секретную научную деятельность, занимается разработкой. Подчиняется напрямую Сфере-5. Выполняет специальные задания. Не подчиняется коменданту станции.</jobdescription.scientist1>
+      <jobdescription.scientist2>Занимется выращиванием агрокультурных растений.</jobdescription.scientist2> 
+
+      <jobname.engineer>Инженер</jobname.engineer>
+      <jobname.engineer1>Инженер</jobname.engineer1>
+      <jobname.engineer2>Инженер</jobname.engineer2>            
+      <jobdescription.engineer>Осуществляет обслуживание сложных систем станции. Понимает как работает электроэнергия на станции. Могут принимать участие в научной деятельности. Оперирует стратегические объекты инфраструктуры станции. Является почетной должностью вхожей в интеллигенцию рабочей партии.</jobdescription.engineer>
+      <jobdescription.engineer1>Осуществляет обслуживание сложных систем станции. Понимает как работает электроэнергия на станции. Могут принимать участие в научной деятельности. Оперирует стратегические объекты инфраструктуры станции. Является почетной должностью вхожей в интеллигенцию рабочей партии.</jobdescription.engineer1>
+      <jobdescription.engineer2>Осуществляет обслуживание сложных систем станции. Понимает как работает электроэнергия на станции. Могут принимать участие в научной деятельности. Оперирует стратегические объекты инфраструктуры станции. Является почетной должностью вхожей в интеллигенцию рабочей партии.</jobdescription.engineer2>
 
 
+
+      <jobname.mechanic>Механик</jobname.mechanic>
+      <jobname.mechanic1>Механик</jobname.mechanic1>
+      <jobname.mechanic2>Механик</jobname.mechanic2>            
+      <jobdescription.mechanic>Осуществляет обслуживание систем станции. Является начальной должностью карьеры инженеров. Могут привлекаться в качестве рабочей силы для различных задач.</jobdescription.mechanic>
+      <jobdescription.mechanic1>Осуществляет обслуживание систем станции. Является начальной должностью карьеры инженеров. Могут привлекаться в качестве рабочей силы для различных задач.</jobdescription.mechanic1>
+      <jobdescription.mechanic2>Осуществляет обслуживание систем станции. Является начальной должностью карьеры инженеров. Могут привлекаться в качестве рабочей силы для различных задач.</jobdescription.mechanic2>
 
 	  
       <jobname.cook>Повар</jobname.cook>
       <jobdescription.cook>Человек, профессией — специальностью которого является приготовление пищи и сортировки имеющихся припасов по пищевым контейнерам.</jobdescription.cook>
 	  
       <jobname.brigadier>Бригадир</jobname.brigadier>
-      <jobdescription.brigadier>Осуществляет организацию работы Инженеров, Механиков, а так же рабочей силы. Проводит обучение для перспективных кадров. Инспектирует важные объекты инфраструктуры.</jobdescription.brigadier>
+      <jobdescription.brigadier>Осуществляет организацию работы инженеров, механиков, а так же рабочей силы. Проводит обучение для перспективных кадров. Инспектирует важные объекты инфраструктуры.</jobdescription.brigadier>
 	  
       <jobname.leadermedicaldoctor>Главврач</jobname.leadermedicaldoctor>
       <jobdescription.leadermedicaldoctor>Осуществляет стандартную роль врача, а так же руководит медицинской службой. Ведет научную деятельность, обучает персонал.</jobdescription.leadermedicaldoctor>
+
+      <jobname.medicaldoctor1>Врач</jobname.medicaldoctor1>
+      <jobname.medicaldoctor2>Фельдшер</jobname.medicaldoctor2>
 	  
       <jobname.janitor>Уборщик</jobname.janitor>
       <jobdescription.janitor>Сотрудник ЖКХ прикомандированный к станции.</jobdescription.janitor>
@@ -54,8 +81,8 @@
       <jobname.stager>Стажёр</jobname.stager>
       <jobdescription.stager>Осуществляет роль помощника для инженеров, механиков, врачей. Может так же использоваться как рабочая сила. </jobdescription.stager>
 -->	  
-      <jobname.stager>Заключенный</jobname.stager>
-      <jobdescription.stager>Бесправный член экипажа, осужденный за преступления в своем прошлом. Он никто на станции, однако у него есть шанс проявить себя.</jobdescription.stager>
+      <jobname.prisoner>Заключенный</jobname.prisoner>
+      <jobdescription.prisoner>Бесправный член экипажа, осужденный за преступления в своем прошлом. Он никто на станции, однако у него есть шанс проявить себя.</jobdescription.prisoner>
 	  
       <jobname.neorussian_comm>Бункерфюрер «‎Тысячелетнего Рейха»‎</jobname.neorussian_comm>
       <jobdescription.neorussian_comm>Начальник экипажа судна «‎Тысячелетний Рейх»‎.</jobdescription.neorussian_comm>
