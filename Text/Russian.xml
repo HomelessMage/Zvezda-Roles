@@ -2,34 +2,6 @@
 <infotexts language="Russian" nowhitespace="false" translatedname="Русский">
 
 
-      <jobname.stockman>Завхоз</jobname.stockman>
-      <jobdescription.stockman>Важный член персонала, отвечающий за складские помещения и инвентаризацию станции.</jobdescription.stockman>
-	  
-	  
-      <jobname.scientist>Научный сотрудник</jobname.scientist>
-      <jobdescription.scientist>Персонал, ответственный за сектор лаборатории и проводящий исследования в области технологических разработок.</jobdescription.scientist>
-	  
-	  
-      <jobname.cook>Повар</jobname.cook>
-      <jobdescription.cook>Человек, профессией — специальностью которого является приготовление пищи и сортировки имеющихся припасов по пищевым контейнерам.</jobdescription.cook>
-	  
-	  
-      <jobname.militaryman>Военнослужащий</jobname.militaryman>
-      <jobdescription.militaryman>Боец ВС ССКЕ. Имеет законодательную монополию на применение силы.</jobdescription.militaryman>
-      <jobdescription.militaryman1>Батальон связи</jobdescription.militaryman1>
-      <jobdescription.militaryman2>Мотострелковый батальон</jobdescription.militaryman2>
-      <jobdescription.militaryman3>Инженерно-сапёрный батальон</jobdescription.militaryman3>
-      <jobdescription.militaryman4>КГБ "Альфа"</jobdescription.militaryman4>       
-	  
-	  
-      <jobname.brigadier>Бригадир</jobname.brigadier>
-      <jobdescription.brigadier>Осуществляет организацию работы Инженеров, Механиков, а так же рабочей силы. Проводит обучение для перспективных кадров. Инспектирует важные объекты инфраструктуры.</jobdescription.brigadier>
-	  
-	  
-      <jobname.leadermedicaldoctor>Главврач</jobname.leadermedicaldoctor>
-      <jobdescription.leadermedicaldoctor>Осуществляет стандартную роль врача, а так же руководит медицинской службой. Ведет научную деятельность, обучает персонал.</jobdescription.leadermedicaldoctor>
-	  
-	  
       <jobname.comendant>Комендант</jobname.comendant>
       <jobdescription.comendant>Управляющий на станции. Занимается организацией работы персонала на станции. Имеет законодательную монополию на применение силы.</jobdescription.comendant>
       <jobdescription.comendant1>Военная комендатура</jobdescription.comendant1>
@@ -40,22 +12,60 @@
       <jobname.militia>Милиционер</jobname.militia>
       <jobdescription.militia>Помогает организовать работу всех служб Коменданту станции. Имеет законодательную монополию на применение силы. Выполняет особые поручения Коменданта.</jobdescription.militia>
       <jobdescription.militia1>ППС</jobdescription.militia1>
-      <jobdescription.militia2>ОМОН</jobdescription.militia2>
+      <jobdescription.militia2>ОМОН</jobdescription.militia2>      
 
+
+      <jobname.militaryman>Военнослужащий</jobname.militaryman>
+      <jobdescription.militaryman>Боец ВС ССКЕ. Имеет законодательную монополию на применение силы.</jobdescription.militaryman>
+      <jobdescription.militaryman1>Батальон связи</jobdescription.militaryman1>
+      <jobdescription.militaryman2>Мотострелковый батальон</jobdescription.militaryman2>
+      <jobdescription.militaryman3>Инженерно-сапёрный батальон</jobdescription.militaryman3>
+      <jobdescription.militaryman4>КГБ "Альфа"</jobdescription.militaryman4>       
+        
+
+
+      <jobname.stockman>Завхоз</jobname.stockman>
+      <jobdescription.stockman>Важный член персонала, отвечающий за складские помещения и инвентаризацию станции.</jobdescription.stockman>
+	  
+
+
+
+	  
+      <jobname.scientist>Научный сотрудник</jobname.scientist>
+      <jobdescription.scientist>Персонал, ответственный за сектор лаборатории и проводящий исследования в области технологических разработок.</jobdescription.scientist>
+	  
+
+
+
+	  
+      <jobname.cook>Повар</jobname.cook>
+      <jobdescription.cook>Человек, профессией — специальностью которого является приготовление пищи и сортировки имеющихся припасов по пищевым контейнерам.</jobdescription.cook>
+	  
+      <jobname.brigadier>Бригадир</jobname.brigadier>
+      <jobdescription.brigadier>Осуществляет организацию работы Инженеров, Механиков, а так же рабочей силы. Проводит обучение для перспективных кадров. Инспектирует важные объекты инфраструктуры.</jobdescription.brigadier>
+	  
+      <jobname.leadermedicaldoctor>Главврач</jobname.leadermedicaldoctor>
+      <jobdescription.leadermedicaldoctor>Осуществляет стандартную роль врача, а так же руководит медицинской службой. Ведет научную деятельность, обучает персонал.</jobdescription.leadermedicaldoctor>
 	  
       <jobname.janitor>Уборщик</jobname.janitor>
       <jobdescription.janitor>Сотрудник ЖКХ прикомандированный к станции.</jobdescription.janitor>
 	  
+<!--      
       <jobname.stager>Стажёр</jobname.stager>
       <jobdescription.stager>Осуществляет роль помощника для инженеров, механиков, врачей. Может так же использоваться как рабочая сила. </jobdescription.stager>
-	  
+-->	  
+      <jobname.stager>Заключенный</jobname.stager>
+      <jobdescription.stager>Бесправный член экипажа, осужденный за преступления в своем прошлом. Он никто на станции, однако у него есть шанс проявить себя.</jobdescription.stager>
 	  
       <jobname.neorussian_comm>Бункерфюрер «‎Тысячелетнего Рейха»‎</jobname.neorussian_comm>
       <jobdescription.neorussian_comm>Начальник экипажа судна «‎Тысячелетний Рейх»‎.</jobdescription.neorussian_comm>
+
       <jobname.neorussian>Боец «‎Тысячелетнего Рейха»</jobname.neorussian>
       <jobdescription.neorussian>Один из членов экипажа судна «‎Тысячелетний Рейх»‎.</jobdescription.neorussian>
+
       <jobname.american_operator>Оператор «‎Дельта»</jobname.american_operator>
       <jobdescription.american_operator>Боец американской спецслужбы.</jobdescription.american_operator>
+      
       <jobname.bandit>Бандит</jobname.bandit>
       <jobdescription.bandit>Криминальный элемент.</jobdescription.bandit>
 </infotexts>

@@ -473,6 +473,11 @@
       </Skills>
       <ItemSet>
          <Item identifier="idcard" equip="true" showpreview="false" />
+         <Item identifier="ita_prisoneruniform" equip="true" outfit="true" showpreview="true" />
+      </ItemSet>      
+<!--       
+      <ItemSet>
+         <Item identifier="idcard" equip="true" showpreview="false" />
          <Item identifier="commonerclothes1" equip="true" outfit="true" showpreview="true" />
          <Item identifier="baseballcap" equip="true" showpreview="true" />
          <Item identifier="duffelbag" equip="true" showpreview="false" />
@@ -495,6 +500,7 @@
          <Item identifier="ushanka2" equip="true" showpreview="true" />
          <Item identifier="duffelbag" equip="true" showpreview="false" />
       </ItemSet>
+-->
    </Job>
    <Job name="stockman" identifier="stockman" uicolor="178,255,102" initialcount="1" allowalways="true" minkarma="0" vitalitymodifier="0" pricemultiplier="0">
       <Skills>
