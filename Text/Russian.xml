@@ -4,10 +4,10 @@
 
       <jobname.comendant>Комендант</jobname.comendant>
       <jobname.comendant1>Комендант</jobname.comendant1>
-      <jobname.comendant2>Военный комиссар</jobname.comendant2>            
+      <jobname.comendant2>Офицер КГБ</jobname.comendant2>            
       <jobdescription.comendant>Управляющий на станции. Занимается организацией работы персонала на станции. Имеет законодательную монополию на применение силы.</jobdescription.comendant>
-      <jobdescription.comendant1>Военная комендатура</jobdescription.comendant1>
-      <jobdescription.comendant2>Военный комиссариат</jobdescription.comendant2>
+      <jobdescription.comendant1>Военная Комендатура</jobdescription.comendant1>
+      <jobdescription.comendant2>Комитет Государственной Безопасности</jobdescription.comendant2>
 
 
 
@@ -24,11 +24,11 @@
       <jobname.militaryman2>Мотострелок</jobname.militaryman2>
       <jobname.militaryman3>Сапёр</jobname.militaryman3>
       <jobname.militaryman4>Спецназовец</jobname.militaryman4>                  
-      <jobdescription.militaryman>Боец ВС ССКЕ. Имеет законодательную монополию на применение силы.</jobdescription.militaryman>
+      <jobdescription.militaryman>Боец погранвойск КГБ ССКЕ. Имеет законодательную монополию на применение силы.</jobdescription.militaryman>
       <jobdescription.militaryman1>Батальон связи</jobdescription.militaryman1>
       <jobdescription.militaryman2>Мотострелковый батальон</jobdescription.militaryman2>
       <jobdescription.militaryman3>Инженерно-сапёрный батальон</jobdescription.militaryman3>
-      <jobdescription.militaryman4>КГБ "Альфа"</jobdescription.militaryman4>       
+      <jobdescription.militaryman4>Управление «Альфа»</jobdescription.militaryman4>       
         
 
 
