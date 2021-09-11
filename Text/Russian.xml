@@ -76,12 +76,11 @@
 	  
       <jobname.janitor>Уборщик</jobname.janitor>
       <jobdescription.janitor>Сотрудник ЖКХ прикомандированный к станции.</jobdescription.janitor>
-	  
-<!--      
+	    
       <jobname.stager>Стажёр</jobname.stager>
-      <jobdescription.stager>Осуществляет роль помощника для инженеров, механиков, врачей. Может так же использоваться как рабочая сила. </jobdescription.stager>
--->	  
-      <jobname.prisoner>Заключенный</jobname.prisoner>
+      <jobdescription.stager>Осуществляет роль помощника для инженеров, механиков, врачей. Может так же использоваться как рабочая сила.</jobdescription.stager>       
+
+      <jobname.prisoner>Заключенный</jobname.prisoner>   
       <jobdescription.prisoner>Бесправный член экипажа, осужденный за преступления в своем прошлом. Он никто на станции, однако у него есть шанс проявить себя.</jobdescription.prisoner>
 	  
       <jobname.neorussian_comm>Бункерфюрер «‎Тысячелетнего Рейха»‎</jobname.neorussian_comm>
