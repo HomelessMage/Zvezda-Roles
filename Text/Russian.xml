@@ -33,7 +33,11 @@
 
 
       <jobname.stockman>Завхоз</jobname.stockman>
+      <jobname.stockman1>Кладовщик</jobname.stockman1>
+      <jobname.stockman2>Продавец</jobname.stockman2>      
       <jobdescription.stockman>Важный член персонала, отвечающий за складские помещения и инвентаризацию станции.</jobdescription.stockman>
+      <jobdescription.stockman1>Отвечает за склад станции.</jobdescription.stockman1>
+      <jobdescription.stockman2>Отвечает за магазин станции.</jobdescription.stockman2>            
 	  
 
 
@@ -71,8 +75,11 @@
       <jobname.leadermedicaldoctor>Главврач</jobname.leadermedicaldoctor>
       <jobdescription.leadermedicaldoctor>Осуществляет стандартную роль врача, а так же руководит медицинской службой. Ведет научную деятельность, обучает персонал.</jobdescription.leadermedicaldoctor>
 
-      <jobname.medicaldoctor1>Врач</jobname.medicaldoctor1>
+      <jobname.medicaldoctor>Врач</jobname.medicaldoctor>
+      <jobname.medicaldoctor1>Терапевт</jobname.medicaldoctor1>
       <jobname.medicaldoctor2>Фельдшер</jobname.medicaldoctor2>
+      <jobdescription.medicaldoctor1></jobdescription.medicaldoctor1>
+      <jobdescription.medicaldoctor2></jobdescription.medicaldoctor2>
 	  
       <jobname.janitor>Уборщик</jobname.janitor>
       <jobdescription.janitor>Сотрудник ЖКХ прикомандированный к станции.</jobdescription.janitor>
@@ -93,5 +100,17 @@
       <jobdescription.american_operator>Боец американской спецслужбы.</jobdescription.american_operator>
       
       <jobname.bandit>Бандит</jobname.bandit>
+      <jobname.bandit1>Шестёрка</jobname.bandit1>
+      <jobname.bandit2>Шнырь</jobname.bandit2>
+      <jobname.bandit3>Барыга</jobname.bandit3>
+      <jobname.bandit4>Приблатненный</jobname.bandit4>
+      <jobname.bandit5>Блатной</jobname.bandit5>
+      <jobname.bandit6>Пахан</jobname.bandit6>                                    
       <jobdescription.bandit>Криминальный элемент.</jobdescription.bandit>
+      <jobdescription.bandit1>Шпана. Не имеет авторитета.</jobdescription.bandit1>
+      <jobdescription.bandit2>Личные помощники блатных или приблатнённых. Практически то же, что и шестёрки.</jobdescription.bandit2>
+      <jobdescription.bandit3>Торговцы наркотиками, скупщики и продавцы краденого, спекулянты, содержатели притонов. По статусу выше шестёрок.</jobdescription.bandit3>
+      <jobdescription.bandit4>Уголовники, воры, мошенники, фальшивомонетчики. По статусу выше шестёрок и барыг.</jobdescription.bandit4>
+      <jobdescription.bandit5>Профессиональные преступники. Высшая каста в иерархии.</jobdescription.bandit5>
+      <jobdescription.bandit6>Лидер криминальной группы.</jobdescription.bandit6>                                    
 </infotexts>

@@ -521,7 +521,7 @@ vipsecurityofficer
          </ItemSet>
       </Job>
    </Override>
-   <Job name="stager" identifier="stager" uicolor="120,120,120" initialcount="1" allowalways="true" minkarma="0" vitalitymodifier="0" pricemultiplier="0">
+   <Job name="stager" identifier="stager" uicolor="150,150,150" initialcount="1" allowalways="true" minkarma="0" vitalitymodifier="0" pricemultiplier="0">
       <Skills>
          <Skill identifier="weapons" level="0,0" />
          <Skill identifier="mechanical" level="0,0" />
@@ -555,7 +555,7 @@ vipsecurityofficer
       </ItemSet>
    </Job>
    <Override>
-      <Job name="prisoner" identifier="prisoner" uicolor="120,120,120" initialcount="1" allowalways="true" minkarma="0" vitalitymodifier="0" pricemultiplier="0">
+      <Job name="prisoner" identifier="prisoner" uicolor="50,50,50" initialcount="1" allowalways="true" minkarma="0" vitalitymodifier="0" pricemultiplier="0">
          <Skills>
             <Skill identifier="weapons" level="0,0" />
             <Skill identifier="mechanical" level="0,0" />
@@ -737,7 +737,7 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
-            <Item identifier="divingmask" showpreview="true">
+            <Item identifier="gp5mask" showpreview="true">
                <Item identifier="oxygentank" showpreview="false" />
             </Item>
             <Item identifier="flashlight" showpreview="true">
@@ -773,7 +773,7 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
-            <Item identifier="divingmask" showpreview="true">
+            <Item identifier="gp5mask" showpreview="true">
                <Item identifier="oxygentank" showpreview="false" />
             </Item>
             <Item identifier="flashlight" showpreview="true">
@@ -810,7 +810,7 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
-            <Item identifier="divingmask" showpreview="true">
+            <Item identifier="gp5mask" showpreview="true">
                <Item identifier="oxygentank" showpreview="false" />
             </Item>
             <Item identifier="flashlight" showpreview="true">
@@ -863,7 +863,7 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
-            <Item identifier="divingmask" showpreview="true">
+            <Item identifier="gp5mask" showpreview="true">
                <Item identifier="oxygentank" showpreview="false" />
             </Item>
             <Item identifier="flashlight" showpreview="true">
@@ -871,14 +871,17 @@ vipsecurityofficer
             </Item>
          </Item>
          <Item identifier="bodyarmor_6b4" equip="true" showpreview="true">
-            <Item identifier="pkmmag" showpreview="false" />
-            <Item identifier="pkmmag" showpreview="false" />
-            <Item identifier="pkmmag" showpreview="false" />
-            <Item identifier="pkmmag" showpreview="false" />
+            <Item identifier="ak74mmag" showpreview="false" />
+            <Item identifier="ak74mmag" showpreview="false" />
+            <Item identifier="ak74mmag" showpreview="false" />
+            <Item identifier="ak74mmag" showpreview="false" />
+            <Item identifier="ak74mmag" showpreview="false" />
+            <Item identifier="ak74mmag" showpreview="false" />
+            <Item identifier="ak74mmag" showpreview="false" />            
             <Item identifier="divingknife" showpreview="true" />
          </Item>
-         <Item identifier="pkm" equip="true" showpreview="true">
-            <Item identifier="pkmmag" showpreview="false" />
+         <Item identifier="ak74m" equip="true" showpreview="true">
+            <Item identifier="ak74mmag" showpreview="false" />
          </Item>
          <Item identifier="zsh1" equip="true" showpreview="true" />
       </ItemSet>
@@ -918,7 +921,7 @@ vipsecurityofficer
          <Item identifier="mop" />
       </ItemSet>
    </Job>
-   <Job name="bandit" identifier="bandit" uicolor="55,55,50" initialcount="1" allowalways="true" minkarma="0" vitalitymodifier="0" pricemultiplier="0">>
+   <Job name="bandit" identifier="bandit" uicolor="85,40,40" initialcount="1" allowalways="true" minkarma="0" vitalitymodifier="0" pricemultiplier="0">>
       <Skills>
          <Skill identifier="weapons" level="100,100" primary="true" />
          <Skill identifier="medical" level="55,55" />
@@ -940,7 +943,7 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
-            <Item identifier="divingmask" showpreview="true">
+            <Item identifier="gp5mask" showpreview="true">
                <Item identifier="oxygentank" showpreview="false" />
             </Item>
             <Item identifier="flashlight" showpreview="true">
@@ -979,7 +982,7 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
-            <Item identifier="divingmask" showpreview="true">
+            <Item identifier="gp5mask" showpreview="true">
                <Item identifier="oxygentank" showpreview="false" />
             </Item>
             <Item identifier="flashlight" showpreview="true">
@@ -1018,7 +1021,7 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
-            <Item identifier="divingmask" showpreview="true">
+            <Item identifier="gp5mask" showpreview="true">
                <Item identifier="oxygentank" showpreview="false" />
             </Item>
             <Item identifier="flashlight" showpreview="true">
@@ -1072,7 +1075,7 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
             <Item identifier="antibloodloss1" showpreview="false" />
-            <Item identifier="divingmask" showpreview="true">
+            <Item identifier="gp5mask" showpreview="true">
                <Item identifier="oxygentank" showpreview="false" />
             </Item>
             <Item identifier="flashlight" showpreview="true">
@@ -1091,6 +1094,103 @@ vipsecurityofficer
          <Item identifier="divingknife" showpreview="true" />
          <Item identifier="idcard" equip="false" showpreview="false" />
       </ItemSet>
+      <ItemSet>
+         <Item identifier="radio" equip="true" showpreview="true">
+            <Item identifier="batterycell" showpreview="false" />
+         </Item>
+         <Item identifier="banditleaderfatigues_1" equip="true" outfit="true" showpreview="true">
+            <Item identifier="antibleeding2" showpreview="false" />
+            <Item identifier="antibleeding2" showpreview="false" />
+            <Item identifier="antibleeding2" showpreview="false" />
+            <Item identifier="antidama1" showpreview="false" />
+            <Item identifier="antidama1" showpreview="false" />
+            <Item identifier="antidama1" showpreview="false" />
+            <Item identifier="antibloodloss1" showpreview="false" />
+            <Item identifier="antibloodloss1" showpreview="false" />
+            <Item identifier="antibloodloss1" showpreview="false" />
+            <Item identifier="gp5mask" showpreview="true">
+               <Item identifier="oxygentank" showpreview="false" />
+            </Item>
+            <Item identifier="flashlight" showpreview="true">
+               <Item identifier="batterycell" showpreview="false" />
+            </Item>
+         </Item>
+         <Item identifier="balaclava3" equip="true" showpreview="true" />
+         <Item identifier="waistpack" equip="true" showpreview="true">
+            <Item identifier="pmmag" showpreview="false" />
+            <Item identifier="pmmag" showpreview="false" />
+            <Item identifier="pmmag" showpreview="false" />
+            <Item identifier="pmmag" showpreview="false" />
+            <Item identifier="pmmag" showpreview="false" />
+            <Item identifier="pmmag" showpreview="false" />            
+         </Item>
+         <Item identifier="pmpistol" showpreview="true">
+            <Item identifier="pmmag" showpreview="false" />
+         </Item>
+         <Item identifier="divingknife" showpreview="true" />
+         <Item identifier="idcard" equip="false" showpreview="false" />
+      </ItemSet>
+      <ItemSet>
+         <Item identifier="radio" equip="true" showpreview="true">
+            <Item identifier="batterycell" showpreview="false" />
+         </Item>
+         <Item identifier="banditleaderfatigues_2" equip="true" outfit="true" showpreview="true">
+            <Item identifier="antibleeding2" showpreview="false" />
+            <Item identifier="antibleeding2" showpreview="false" />
+            <Item identifier="antibleeding2" showpreview="false" />
+            <Item identifier="antidama1" showpreview="false" />
+            <Item identifier="antidama1" showpreview="false" />
+            <Item identifier="antidama1" showpreview="false" />
+            <Item identifier="antibloodloss1" showpreview="false" />
+            <Item identifier="antibloodloss1" showpreview="false" />
+            <Item identifier="antibloodloss1" showpreview="false" />
+            <Item identifier="gp5mask" showpreview="true">
+               <Item identifier="oxygentank" showpreview="false" />
+            </Item>
+            <Item identifier="flashlight" showpreview="true">
+               <Item identifier="batterycell" showpreview="false" />
+            </Item>
+         </Item>
+         <Item identifier="balaclava4" equip="true" showpreview="true" />
+         <Item identifier="waistpack" equip="true" showpreview="true">
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />                                    
+         </Item>
+         <Item identifier="ots38" showpreview="true">
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />
+            <Item identifier="76241mm" showpreview="false" />                                                                                    
+         </Item>
+         <Item identifier="divingknife" showpreview="true" />
+         <Item identifier="idcard" equip="false" showpreview="false" />
+      </ItemSet>          
    </Job>   
    <!--HIDDEN-->
    <!--HIDDEN-->
@@ -1100,6 +1200,11 @@ vipsecurityofficer
    <!--HIDDEN-->
    <!--HIDDEN-->
    <Job name="neorussian" identifier="neorussian" uicolor="51,51,51" allowalways="true" minkarma="0" minnumber="0" maxnumber="0" initialcount="1" vitalitymodifier="0" pricemultiplier="0">
+<!-->
+ssh68_mod
+ssh68_mod_balaclava1
+ssh68_mod_balaclava2
+-->
       <Skills>
          <Skill identifier="weapons" level="100,100" primary="true" />
          <Skill identifier="medical" level="55,55" />
@@ -1112,7 +1217,7 @@ vipsecurityofficer
          <Item identifier="radio" equip="true">
             <Item identifier="batterycell" />
          </Item>
-         <Item identifier="securityuniform1_1" equip="true" outfit="true">
+         <Item identifier="reichfatigues" equip="true" outfit="true">
             <Item identifier="antibleeding2" />
             <Item identifier="antibleeding2" />
             <Item identifier="antibleeding2" />
@@ -1122,7 +1227,45 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" />
             <Item identifier="antibloodloss1" />
             <Item identifier="antibloodloss1" />
-            <Item identifier="divingmask">
+            <Item identifier="gp5mask">
+               <Item identifier="oxygentank" />
+            </Item>
+            <Item identifier="flashlight">
+               <Item identifier="batterycell" />
+            </Item>
+         </Item>
+         <Item identifier="reichbonnet" equip="true" />
+         <Item identifier="ammovestblack" equip="true">
+            <Item identifier="76239mmmag" />
+            <Item identifier="76239mmmag" />
+            <Item identifier="76239mmmag" />
+            <Item identifier="76239mmmag" />
+            <Item identifier="76239mmmag" />
+            <Item identifier="76239mmmag" />
+            <Item identifier="76239mmmag" />
+            <Item identifier="76239mmmag" />
+         </Item>
+         <Item identifier="akm">
+            <Item identifier="76239mmmag" />
+         </Item>
+         <Item identifier="divingknife" />
+      </ItemSet>
+      <ItemSet>
+         <Item identifier="idcard" equip="true" showpreview="false" />
+         <Item identifier="radio" equip="true">
+            <Item identifier="batterycell" />
+         </Item>
+         <Item identifier="reichfatigues" equip="true" outfit="true">
+            <Item identifier="antibleeding2" />
+            <Item identifier="antibleeding2" />
+            <Item identifier="antibleeding2" />
+            <Item identifier="antidama1" />
+            <Item identifier="antidama1" />
+            <Item identifier="antidama1" />
+            <Item identifier="antibloodloss1" />
+            <Item identifier="antibloodloss1" />
+            <Item identifier="antibloodloss1" />
+            <Item identifier="gp5mask">
                <Item identifier="oxygentank" />
             </Item>
             <Item identifier="flashlight">
@@ -1130,6 +1273,44 @@ vipsecurityofficer
             </Item>
          </Item>
          <Item identifier="ssh68_mod" equip="true" />
+         <Item identifier="ammovestblack" equip="true">
+            <Item identifier="aksumag" />
+            <Item identifier="aksumag" />
+            <Item identifier="aksumag" />
+            <Item identifier="aksumag" />
+            <Item identifier="aksumag" />
+            <Item identifier="aksumag" />
+            <Item identifier="aksumag" />
+            <Item identifier="aksumag" />
+         </Item>
+         <Item identifier="aksu">
+            <Item identifier="aksumag" />
+         </Item>
+         <Item identifier="divingknife" />
+      </ItemSet>
+      <ItemSet>
+         <Item identifier="idcard" equip="true" showpreview="false" />
+         <Item identifier="radio" equip="true">
+            <Item identifier="batterycell" />
+         </Item>
+         <Item identifier="reichfatigues" equip="true" outfit="true">
+            <Item identifier="antibleeding2" />
+            <Item identifier="antibleeding2" />
+            <Item identifier="antibleeding2" />
+            <Item identifier="antidama1" />
+            <Item identifier="antidama1" />
+            <Item identifier="antidama1" />
+            <Item identifier="antibloodloss1" />
+            <Item identifier="antibloodloss1" />
+            <Item identifier="antibloodloss1" />
+            <Item identifier="gp5mask">
+               <Item identifier="oxygentank" />
+            </Item>
+            <Item identifier="flashlight">
+               <Item identifier="batterycell" />
+            </Item>
+         </Item>
+         <Item identifier="ssh68_mod_balaclava1" equip="true" />
          <Item identifier="bodyarmor_mod" equip="true">
             <Item identifier="ak74mmag" />
             <Item identifier="ak74mmag" />
@@ -1150,7 +1331,7 @@ vipsecurityofficer
          <Item identifier="radio" equip="true">
             <Item identifier="batterycell" />
          </Item>
-         <Item identifier="securityuniform3_1" equip="true" outfit="true">
+         <Item identifier="reichfatigues" equip="true" outfit="true">
             <Item identifier="antibleeding2" />
             <Item identifier="antibleeding2" />
             <Item identifier="antibleeding2" />
@@ -1160,16 +1341,15 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" />
             <Item identifier="antibloodloss1" />
             <Item identifier="antibloodloss1" />
-            <Item identifier="divingmask">
+            <Item identifier="gp5mask">
                <Item identifier="oxygentank" />
             </Item>
             <Item identifier="flashlight">
                <Item identifier="batterycell" />
             </Item>
          </Item>
-         <Item identifier="zsh1" equip="true" />
+         <Item identifier="ssh68_mod_balaclava2" equip="true" />
          <Item identifier="bodyarmor_mod" equip="true">
-            <Item identifier="rpdmagazine" />
             <Item identifier="rpdmagazine" />
             <Item identifier="rpdmagazine" />
             <Item identifier="rpdmagazine" />
@@ -1178,121 +1358,7 @@ vipsecurityofficer
             <Item identifier="rpdmagazine" />
          </Item>
          <Item identifier="divingknife" />
-      </ItemSet>
-      <ItemSet>
-         <Item identifier="idcard" equip="true" showpreview="false" />
-         <Item identifier="radio" equip="true">
-            <Item identifier="batterycell" />
-         </Item>
-         <Item identifier="sailorclothes" equip="true" outfit="true">
-            <Item identifier="antibleeding2" />
-            <Item identifier="antibleeding2" />
-            <Item identifier="antibleeding2" />
-            <Item identifier="antidama1" />
-            <Item identifier="antidama1" />
-            <Item identifier="antidama1" />
-            <Item identifier="antibloodloss1" />
-            <Item identifier="antibloodloss1" />
-            <Item identifier="antibloodloss1" />
-            <Item identifier="divingmask">
-               <Item identifier="oxygentank" />
-            </Item>
-            <Item identifier="flashlight">
-               <Item identifier="batterycell" />
-            </Item>
-         </Item>
-         <Item identifier="ssh68_mod" equip="true" />
-         <Item identifier="bodyarmor_mod" equip="true">
-            <Item identifier="76239mmmag" />
-            <Item identifier="76239mmmag" />
-            <Item identifier="76239mmmag" />
-            <Item identifier="76239mmmag" />
-            <Item identifier="76239mmmag" />
-            <Item identifier="76239mmmag" />
-            <Item identifier="76239mmmag" />
-            <Item identifier="76239mmmag" />
-         </Item>
-         <Item identifier="akm">
-            <Item identifier="76239mmmag" />
-         </Item>
-         <Item identifier="divingknife" />
-      </ItemSet>
-      <ItemSet>
-         <Item identifier="idcard" equip="true" showpreview="false" />
-         <Item identifier="radio" equip="true">
-            <Item identifier="batterycell" />
-         </Item>
-         <Item identifier="commonerclothes1" equip="true" outfit="true">
-            <Item identifier="antibleeding2" />
-            <Item identifier="antibleeding2" />
-            <Item identifier="antibleeding2" />
-            <Item identifier="antidama1" />
-            <Item identifier="antidama1" />
-            <Item identifier="antidama1" />
-            <Item identifier="antibloodloss1" />
-            <Item identifier="antibloodloss1" />
-            <Item identifier="antibloodloss1" />
-            <Item identifier="divingmask">
-               <Item identifier="oxygentank" />
-            </Item>
-            <Item identifier="flashlight">
-               <Item identifier="batterycell" />
-            </Item>
-         </Item>
-         <Item identifier="ssh68_mod" equip="true" />
-         <Item identifier="ammovest" equip="true">
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-         </Item>
-         <Item identifier="aksu">
-            <Item identifier="aksumag" />
-         </Item>
-         <Item identifier="divingknife" />
-      </ItemSet>
-      <ItemSet>
-         <Item identifier="idcard" equip="true" showpreview="false" />
-         <Item identifier="radio" equip="true">
-            <Item identifier="batterycell" />
-         </Item>
-         <Item identifier="commonerclothes2" equip="true" outfit="true">
-            <Item identifier="antibleeding2" />
-            <Item identifier="antibleeding2" />
-            <Item identifier="antibleeding2" />
-            <Item identifier="antidama1" />
-            <Item identifier="antidama1" />
-            <Item identifier="antidama1" />
-            <Item identifier="antibloodloss1" />
-            <Item identifier="antibloodloss1" />
-            <Item identifier="antibloodloss1" />
-            <Item identifier="divingmask">
-               <Item identifier="oxygentank" />
-            </Item>
-            <Item identifier="flashlight">
-               <Item identifier="batterycell" />
-            </Item>
-         </Item>
-         <Item identifier="balaclava" equip="true" />
-         <Item identifier="bodyarmor_mod" equip="true">
-            <Item identifier="kiparismag" />
-            <Item identifier="kiparismag" />
-            <Item identifier="kiparismag" />
-            <Item identifier="kiparismag" />
-            <Item identifier="kiparismag" />
-            <Item identifier="kiparismag" />
-            <Item identifier="kiparismag" />
-            <Item identifier="kiparismag" />
-         </Item>
-         <Item identifier="kiparis">
-            <Item identifier="kiparismag" />
-         </Item>
-         <Item identifier="divingknife" />
-      </ItemSet>
+      </ItemSet>      
    </Job>
    <Job name="neorussian_comm" identifier="neorussian_comm" uicolor="26,26,26" allowalways="true" minkarma="0" minnumber="0" maxnumber="0" initialcount="1" vitalitymodifier="0" pricemultiplier="0">
       <Skills>
@@ -1307,7 +1373,7 @@ vipsecurityofficer
          <Item identifier="radio" equip="true">
             <Item identifier="batterycell" />
          </Item>
-         <Item identifier="securityuniform1_1" equip="true" outfit="true">
+         <Item identifier="reichfatigues" equip="true" outfit="true">
             <Item identifier="antibleeding2" />
             <Item identifier="antibleeding2" />
             <Item identifier="antibleeding2" />
@@ -1317,29 +1383,29 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" />
             <Item identifier="antibloodloss1" />
             <Item identifier="antibloodloss1" />
-            <Item identifier="divingmask">
+            <Item identifier="gp5mask">
                <Item identifier="oxygentank" />
             </Item>
             <Item identifier="flashlight">
                <Item identifier="batterycell" />
             </Item>
          </Item>
-         <Item identifier="captainscap3" equip="true" />
-         <Item identifier="bodyarmor_mod" equip="true">
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
-            <Item identifier="aksumag" />
+         <Item identifier="reichcap" equip="true" />
+         <Item identifier="ammovestblackholster" equip="true">
+            <Item identifier="ak74mmag" />
+            <Item identifier="ak74mmag" />
+            <Item identifier="ak74mmag" />
+            <Item identifier="ak74mmag" />
+            <Item identifier="ak74mmag" />
+            <Item identifier="ak74mmag" />
+            <Item identifier="ak74mmag" />
+            <Item identifier="ak74mmag" />
          </Item>
-         <Item identifier="aksu">
-            <Item identifier="aksumag" />
+         <Item identifier="ak74m">
+            <Item identifier="ak74mmag" />
          </Item>
          <Item identifier="divingknife" />
-      </ItemSet>
+      </ItemSet>      
    </Job>
    <Job name="american_operator" identifier="american_operator" uicolor="51,51,51" allowalways="true" minkarma="0" minnumber="0" maxnumber="0" initialcount="1" vitalitymodifier="0" pricemultiplier="0">
       <Skills>
@@ -1364,7 +1430,7 @@ vipsecurityofficer
             <Item identifier="antibloodloss1" />
             <Item identifier="antibloodloss1" />
             <Item identifier="antibloodloss1" />
-            <Item identifier="divingmask">
+            <Item identifier="gp5mask">
                <Item identifier="oxygentank" />
             </Item>
             <Item identifier="flashlight">
