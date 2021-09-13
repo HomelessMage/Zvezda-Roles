@@ -80,9 +80,11 @@
          </ItemSet>
       </Job>
    </Override>
-   commoner
+   <!--
+commoner
 vip
 vipsecurityofficer
+   -->
    <!--DEFAULT-->
    <!--DEFAULT-->
    <!--DEFAULT-->
@@ -202,6 +204,50 @@ vipsecurityofficer
             <Item identifier="pmmag" showpreview="false" />
          </Item>
       </ItemSet>
+      <ItemSet>
+         <Item identifier="idcard" equip="true" showpreview="false" />
+         <Item identifier="sovietuniform" equip="true" outfit="true" showpreview="true">
+            <Item identifier="cigpack" showpreview="true">
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+               <Item identifier="cigarette" showpreview="false" />
+            </Item>
+            <Item identifier="wallet" showpreview="false">
+               <Item identifier="100rubles" showpreview="false" />
+               <Item identifier="100rubles" showpreview="false" />
+               <Item identifier="100rubles" showpreview="false" />
+               <Item identifier="100rubles" showpreview="false" />
+               <Item identifier="100rubles" showpreview="false" />
+               <Item identifier="100rubles" showpreview="false" />
+               <Item identifier="100rubles" showpreview="false" />
+               <Item identifier="100rubles" showpreview="false" />
+               <Item identifier="100rubles" showpreview="false" />
+               <Item identifier="100rubles" showpreview="false" />
+            </Item>
+         </Item>
+         <Item identifier="sovietofficercap" equip="true" showpreview="true" />
+         <Item identifier="ammovestholster" equip="true" showpreview="true">
+            <Item identifier="aksumag" showpreview="false" />
+            <Item identifier="aksumag" showpreview="false" />
+            <Item identifier="aksumag" showpreview="false" />
+            <Item identifier="aksumag" showpreview="false" />
+         </Item>
+         <Item identifier="radio" equip="true" showpreview="true">
+            <Item identifier="batterycell" showpreview="false" />
+         </Item>
+         <Item identifier="aksu" showpreview="true">
+            <Item identifier="aksumag" showpreview="false" />
+         </Item>
+      </ItemSet>      
    </Job>
    <Job name="militia" identifier="militia" uicolor="65,105,255" initialcount="1" allowalways="true" minkarma="0" vitalitymodifier="0" pricemultiplier="0">
       <Skills>
