@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Zvezda Roles" path="Mods/Zvezda Roles/filelist.xml" corepackage="false" gameversion="0.14.9.1" steamworkshopid="2322490213" installtime="1631556259">
+<contentpackage name="Zvezda Roles" path="Mods/Zvezda Roles/filelist.xml" corepackage="false" gameversion="0.14.9.1" steamworkshopid="2322490213" installtime="1631725698">
   <Jobs file="Mods/Zvezda Roles/Content/Jobs.xml" />
   <Text file="Mods/Zvezda Roles/Text/Russian.xml" />
   <None file="Mods/Zvezda Roles/4.png" />
