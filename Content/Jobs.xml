@@ -1130,12 +1130,26 @@ vipsecurityofficer
          </Item>
          <Item identifier="balaclava2" equip="true" showpreview="true" />
          <Item identifier="ammovestblack" equip="true" showpreview="true">
-            <Item identifier="rpdmagazine" showpreview="false" />
-            <Item identifier="rpdmagazine" showpreview="false" />
-            <Item identifier="rpdmagazine" showpreview="false" />
+            <Item identifier="shotgunshellcombat" showpreview="false" />
+            <Item identifier="shotgunshellcombat" showpreview="false" />
+            <Item identifier="shotgunshellcombat" showpreview="false" />
+            <Item identifier="shotgunshellcombat" showpreview="false" />  
+            <Item identifier="shotgunshellcombat" showpreview="false" />
+            <Item identifier="shotgunshellcombat" showpreview="false" />  
+            <Item identifier="shotgunshellcombat" showpreview="false" />
+            <Item identifier="shotgunshellcombat" showpreview="false" />  
+            <Item identifier="shotgunshellcombat" showpreview="false" />
+            <Item identifier="shotgunshellcombat" showpreview="false" />  
+            <Item identifier="shotgunshellcombat" showpreview="false" />
+            <Item identifier="shotgunshellcombat" showpreview="false" />  
+            <Item identifier="shotgunshellcombat" showpreview="false" />
+            <Item identifier="shotgunshellcombat" showpreview="false" />  
+            <Item identifier="shotgunshellcombat" showpreview="false" />
+            <Item identifier="shotgunshellcombat" showpreview="false" />  
          </Item>
-         <Item identifier="rpd" showpreview="true">
-            <Item identifier="rpdmagazine" showpreview="false" />
+         <Item identifier="izh58" showpreview="true">
+            <Item identifier="shotgunshellcombat" showpreview="false" />
+            <Item identifier="shotgunshellcombat" showpreview="false" />            
          </Item>
          <Item identifier="divingknife" showpreview="true" />
          <Item identifier="idcard" equip="false" showpreview="false" />
