@@ -421,7 +421,7 @@ vipsecurityofficer
          </ItemSet>
          <ItemSet>
             <Item identifier="idcard" equip="true" showpreview="false" />
-            <Item identifier="baseballcap" equip="true" showpreview="true" />
+            <Item identifier="bonnet" equip="true" showpreview="true" />
             <Item identifier="orangejumpsuit3" equip="true" outfit="true" showpreview="true">
                <Item identifier="screwdriver" showpreview="true" />
                <Item identifier="wrench" showpreview="true" />
@@ -672,7 +672,7 @@ vipsecurityofficer
                <Item identifier="100rubles" showpreview="false" />
             </Item>
          </Item>
-         <Item identifier="baseballcap" equip="true" showpreview="true" />
+         <Item identifier="bonnet" equip="true" showpreview="true" />
          <Item identifier="radio" equip="true" showpreview="true">
             <Item identifier="batterycell" showpreview="false" />
          </Item>
@@ -846,7 +846,7 @@ vipsecurityofficer
          <Item identifier="radio" equip="true" showpreview="true">
             <Item identifier="batterycell" showpreview="false" />
          </Item>
-         <Item identifier="sailorclothes" equip="true" outfit="true" showpreview="true">
+         <Item identifier="berezka" equip="true" outfit="true" showpreview="true">
             <Item identifier="antibleeding2" showpreview="false" />
             <Item identifier="antibleeding2" showpreview="false" />
             <Item identifier="antibleeding2" showpreview="false" />
@@ -892,7 +892,7 @@ vipsecurityofficer
             <Item identifier="shotgunshellcombat" showpreview="false" />
             <Item identifier="shotgunshellcombat" showpreview="false" />
          </Item>
-         <Item identifier="ballistichelmet2" equip="true" showpreview="true" />
+         <Item identifier="bonnet" equip="true" showpreview="true" />
       </ItemSet>
       <ItemSet>
          <Item identifier="idcard" equip="true" showpreview="false" />
@@ -1532,7 +1532,7 @@ ssh68_mod_balaclava2
             <Item identifier="ar15mag" />
             <Item identifier="ar15mag" />
          </Item>
-         <Item identifier="ar15">
+         <Item identifier="ar15" equip="true">
             <Item identifier="ar15mag" />
          </Item>
          <Item identifier="divingknife" />
