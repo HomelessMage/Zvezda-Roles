@@ -1335,7 +1335,7 @@ ssh68_mod_balaclava2
             <Item identifier="ar15mag" />
             <Item identifier="ar15mag" />
          </Item>
-         <Item identifier="ar15" equip="true">
+         <Item identifier="ar15">
             <Item identifier="ar15mag" />
          </Item>
          <Item identifier="divingknife" />
