@@ -91,12 +91,20 @@
       <jobdescription.prisoner>Бесправный член экипажа, осужденный за преступления в своем прошлом. Он никто на станции, однако у него есть шанс проявить себя.</jobdescription.prisoner>
 	  
       <jobname.neorussian_comm>Бункерфюрер «‎Тысячелетнего Рейха»‎</jobname.neorussian_comm>
-      <jobdescription.neorussian_comm>Начальник экипажа судна «‎Тысячелетний Рейх»‎.</jobdescription.neorussian_comm>
+      <jobdescription.neorussian_comm>Командир батальона «‎Тысячелетний Рейх»‎</jobdescription.neorussian_comm>
 
       <jobname.neorussian>Боец «‎Тысячелетнего Рейха»</jobname.neorussian>
-      <jobdescription.neorussian>Один из членов экипажа судна «‎Тысячелетний Рейх»‎.</jobdescription.neorussian>
+      <jobdescription.neorussian>Один из комбатантов «‎Тысячелетнего Рейха»‎.</jobdescription.neorussian>
+      <jobname.neorussian1>Связист</jobname.neorussian1>
+      <jobname.neorussian2>Унтер-офицер</jobname.neorussian2>
+      <jobname.neorussian3>Фельдфебель</jobname.neorussian3>
+      <jobname.neorussian4>Поручик</jobname.neorussian4>
+      <jobdescription.neorussian1>Батальон связи "Тысячелетнего Рейха"</jobdescription.neorussian1>
+      <jobdescription.neorussian2>Штурмгренадерский батальон "Тысячелетнего Рейха"</jobdescription.neorussian2>
+      <jobdescription.neorussian3>Панцергренадерский батальон "Тысячелетнего Рейха"</jobdescription.neorussian3>
+      <jobdescription.neorussian4>Батальон поддержки "Тысячелетнего Рейха"</jobdescription.neorussian4>
 
-      <jobname.american_operator>Оператор «‎Дельта»</jobname.american_operator>
+  <jobname.american_operator>Оператор «‎Дельта»</jobname.american_operator>
       <jobdescription.american_operator>Боец американской спецслужбы.</jobdescription.american_operator>
       
       <jobname.bandit>Бандит</jobname.bandit>
